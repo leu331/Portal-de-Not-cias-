@@ -15,3 +15,19 @@
 .gap-16 {
     gap: 16px;
 }
+
+.text-xxl {
+    font-family: var(--heading1);
+}
+
+.text-xl {
+    font-family: var(--heading2);
+}
+
+.text-lg {
+    font-family: var(--heading3);
+}
+
+.text-sm {
+    font-family: var(--txt-sm);
+}
