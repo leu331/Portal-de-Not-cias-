@@ -29,5 +29,14 @@
 }
 
 .text-sm {
-    font-family: var(--txt-sm);
+    font-family: var(--text-sm);
+}
+
+h3 {
+    font: "Archivo", sans-serif ;
+    font-size: 14px;
+    font-weight: 140%;
+    color: var(--text-color-primary);
+    font-weight: 800;
+
 }

@@ -27,11 +27,18 @@ section#images {
             bottom: 0;
             padding: 24px;
 
+        &:has(h3) {
+            padding: 12px;
+        }
+
         
 
     } h2 {
-        margin-top: 10px;
+        margin-top: 8px;
     } 
+    h3 {  margin-top: 8px;
+
+    }
    
     }
     
