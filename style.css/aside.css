@@ -1,0 +1,20 @@
+.pol {
+    padding-block: 12px 24px;
+}
+
+
+ 
+p#ps {
+    color: var(--text-color-primary);
+    font-family: "Archivo", sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 140%;
+
+}
+
+img#img {
+    height: 160px;
+    width: 292px;
+    object-fit: cover;
+}
