@@ -54,7 +54,9 @@ img {
 
 main {
     margin-top: 40px;
+    gap: 80px;
 }
+
 
 .content-tag {
     display: inline-block;
@@ -88,3 +90,8 @@ h2:hover {
     color: white;
 }
 
+section#weekly {
+    header {
+        border-top: 1px solid var(--stroke-color);
+    }
+}

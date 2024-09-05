@@ -46,7 +46,8 @@ section#images {
 
 
 section#weekly{
-    border-top: 1px solid var(--stroke-color);
+   
+    padding-block: 80px 0px;
    
     
     header a {
@@ -91,8 +92,45 @@ section#weekly{
 
 section#weekly header {
    padding-block: 12px 24px;
+  
+}
 
+section#ai {
+    padding-block: 80px 0px;
+}
+
+section#ai{
    
-
+    padding-block: 80px 0px;
+   
     
+    header a {
+        justify-self: end;
+        align-items: center;
+        gap: 4px;
+
+        span {
+            background-image: url(../assets/icons/ArrowRight.svg);
+            width: 16px;
+            height: 16px;
+        }
+    }
+}
+
+section#more{
+   
+    padding-block: 80px 0px;
+   
+    
+    header a {
+        justify-self: end;
+        align-items: center;
+        gap: 4px;
+
+        span {
+            background-image: url(../assets/icons/ArrowRight.svg);
+            width: 16px;
+            height: 16px;
+        }
+    }
 }
